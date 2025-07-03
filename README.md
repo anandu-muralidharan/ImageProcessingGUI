@@ -1,6 +1,6 @@
 # ImageProcessingGUI
 
-The official GUI softfare that I built for the nanoplasmonics laboratory at IIT Gandhinagar to study the blinking dynamics of quantum dot semiconductors.
+The official GUI software that I built for the nanoplasmonics laboratory at IIT Gandhinagar to study the blinking dynamics of quantum dot semiconductors.
 The interface can be used to -
 1. Plot the time trace obtained from the blinking studies.
 2. Plot the dwell time data in the form of histogram.
